@@ -95,7 +95,7 @@ const Item = ({ el }: ItemProps) => {
       >
         <div className="flex gap-[15px]">
           <Image
-            src={`/assets/images/icon-${el.category}.svg`}
+            src={`/images/icon-${el.category}.svg`}
             alt="summary icon"
             width={20}
             height={20}
